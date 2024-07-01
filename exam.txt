@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Hello there!!!@
+=======
 Hello there!!
 Good Afternoon.
+>>>>>>> origin/master
